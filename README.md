@@ -1,5 +1,7 @@
 # Coldbir
 
+[![Build Status](https://travis-ci.org/reinholdsson/Coldbir.svg)](https://travis-ci.org/reinholdsson/Coldbir)
+
 Coldbir is a column database in R. The main purpose of this package is to simplify the workflow with panel data on disk, including features such as:
 
 - Simple syntax to work with data
